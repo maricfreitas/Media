@@ -1,0 +1,1 @@
+Programa que pede ao usuario as notas e imprime sua media
